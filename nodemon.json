@@ -1,0 +1,14 @@
+{
+  "env": {
+    "AWS_ACCESS_ID": "AKIA3LVRZHIEIZWGJ7VH",
+    "AWS_SECRET": "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",
+    "AWS_BUCKET_NAME": "essaysinnbucket",
+    "MONGO_USER": "askakwambokaras",
+    "MONGO_ATLAS_PW": "nPJn2KZNZWP6xpr3",
+    "MONGO_DB": "essaywriting",
+    "mongodb_clustername": "shop",
+    "JWT_KEY": "1yVM!O^v0718h6&zxG!4YF*FX%msjke",
+    "STRIPE_KEY_DEV": "sk_test_51Mje7DBa0RowYgck1V1CU8zP29EudwOIDp8xgu1hdKBs7ZXr7kUxOdzsvAGxPF1KZhBAd9kbSs8YUxbeko28j0HG00p6k0dSmd",
+    "STRIPE_KEY_PRODUCTION": "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"
+  }
+}
